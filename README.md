@@ -5,7 +5,8 @@
 
 It is a simple [Django](https://www.djangoproject.com/) project that uses [Django REST framework](http://www.django-rest-framework.org/). The template makes use of Docker to create several containers, with
 specific tasks aimed to development or to productionize the project.
-<img width="1673" alt="Django1" src="https://user-images.githubusercontent.com/35616113/209976569-4a2b2622-6e4a-407f-9a24-e6d7012046fe.png">
+
+<img width="1373" alt="Django1" src="https://user-images.githubusercontent.com/35616113/209976569-4a2b2622-6e4a-407f-9a24-e6d7012046fe.png">
 
 ---
 
